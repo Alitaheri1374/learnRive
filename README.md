@@ -2,4 +2,4 @@
 
 rive in Flutter
 
-## This project Use Rive package and Use Rive animation.
+## This project Use Rive package and  Rive animation.
